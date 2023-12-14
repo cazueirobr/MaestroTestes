@@ -1,0 +1,9 @@
+# flow.yaml
+
+appId: 'http://localhost:19006/'
+---
+- launchApp
+- tapOn: "Usuario"
+- inputText: "Qualquer coisa"
+- assertVisible: "Voce digitou algo!!"
+

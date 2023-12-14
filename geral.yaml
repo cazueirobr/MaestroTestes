@@ -1,0 +1,4 @@
+# config.yaml
+flows:
+  - teste2.yaml
+  - teste.yaml
